@@ -1,0 +1,66 @@
+header{
+  text-align: center;
+    color: rgb(88 165 42);
+    font-size: 80px;
+    font-style: BRUSH SCRIPT;
+
+}
+.festa{
+  margin-left: 700px;
+    font-size: 60px;
+    color: #00ffbb;
+    padding-top: 40px;
+    padding-bottom: 10;
+    font-style: italic;
+    font-synthesis-style: initial;
+    font-family: emoji;
+}
+.junia{
+  margin-left: 750px;
+    font-size: 60px;
+    color: #ffeb00;
+    font-style: italic;
+    font-synthesis-style: initial;
+    font-family: emoji;
+}
+.year{
+  margin-left: 700px;
+    font-size: 60px;
+    color: #39a7dc;
+    font-style: italic;
+    font-synthesis-style: initial;
+    font-family: emoji;
+}
+
+.body{
+  background-image: url("images/back.jpeg");
+  height: 100vh;
+    background-size: cover;
+    background-position: center;
+
+
+}
+a.hover{
+  color: rgb(126, 42, 165);
+  cursor: pointer;
+  border-radius:5px ;
+  background-color: black;
+
+}
+.button{
+  margin-left: 1300px;
+  font-size: 20px;
+  color:aquamarine;
+  font-style: italic ;
+}
+img{
+  mix-blend-mode: multiply;
+  width: auto;
+}
+.back{
+  background-image: url(images/2.jpg);
+  height: 100vh;
+    background-size: cover;
+    background-position: center;
+
+}

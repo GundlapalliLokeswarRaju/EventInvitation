@@ -1,0 +1,33 @@
+.welcome{
+  text-align: center;
+  font-size: 50px;
+  color: #00e6c4;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding-bottom: 20px;
+}
+p{
+  text-align: center;
+    font-family: emoji;
+    font-style: italic;
+    font-size: 30px;
+    color: #3900e6;
+}
+.back{
+  background-image: url(images/2.jpg);
+  height: auto;
+    background-size: cover;
+    background-position: center;
+
+}
+button{
+margin-left: 1300px;
+  font-size: 20px;
+  color:aquamarine;
+  font-style: italic ;
+}
+img{
+  mix-blend-mode: multiply;
+  text-align: center;
+  padding-left: 100px;
+
+}

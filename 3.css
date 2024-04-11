@@ -1,0 +1,39 @@
+header{
+  text-align: center;
+  color: blueviolet;
+  font-size: 40px;
+  font-weight: 100;
+}
+h4{
+  text-align: center;
+  color: #011a9b;;
+  font-size: 30px;
+  font-weight: 100;
+}
+h5{
+  text-align: center;
+    color: aqua;
+}
+h6{
+  text-align: center;
+    color: #953a09;
+}
+a.hover{
+  color: rgb(126, 42, 165);
+  cursor: pointer;
+  border-radius:5px ;
+  background-color: black;
+}
+.button{
+  margin-left: 1300px;
+  font-size: 20px;
+  color:aquamarine;
+  font-style: italic ;
+}
+body{
+  background-image: url("images/1.jpeg");
+  height: auto;
+  background-size: cover;
+  background-position: center;
+
+}
